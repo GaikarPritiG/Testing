@@ -11,11 +11,10 @@ public class priti {
 	System.out.println("master"); 
 		
 	}
-	public void master()
+	public void main1()
 	{
 		
-	System.out.println("master1"); 
+	System.out.println("Priti"); 
 		
 	}
-
 }
