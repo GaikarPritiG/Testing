@@ -6,5 +6,10 @@ public class priti {
 		// TODO Auto-generated method stub
 
 	}
-
+	public void main()
+	{
+		
+	System.out.println("Priti"); 
+		
+	}
 }
