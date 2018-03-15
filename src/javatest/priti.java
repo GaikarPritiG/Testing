@@ -11,5 +11,11 @@ public class priti {
 	System.out.println("master"); 
 		
 	}
+	public void master()
+	{
+		
+	System.out.println("master1"); 
+		
+	}
 
 }
