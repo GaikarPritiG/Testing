@@ -8,13 +8,13 @@ public class priti {
 	}	public void main()
 	{
 		
-	System.out.println("master"); 
+	System.out.println("master1"); 
 		
 	}
 	public void main1()
 	{
 		
-	System.out.println("Priti"); 
+	System.out.println("master2"); 
 		
 	}
 }
