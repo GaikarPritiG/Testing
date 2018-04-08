@@ -10,7 +10,9 @@ public class testproperty {
 	public void main()
 	{
 		
-	System.out.println("Priti Gaikar "); 
+		
+		
+	System.out.println("Priti Gaikar 7777"); 
 	
 	
 	
@@ -18,7 +20,7 @@ public class testproperty {
 	public void main1()
 	{
 		
-	System.out.println("Priti Gailar"); 
+	System.out.println("Priti Gailar777"); 
 		
 	}
 
