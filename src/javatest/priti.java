@@ -8,7 +8,7 @@ public class priti {
 	}	public void main09()
 	{
 	
-	System.out.println("Pritigaikar2"); 
+	System.out.println("Pritigaikasssr2"); 
 		
 	}public void main()
 	{
@@ -19,7 +19,7 @@ public class priti {
 	public void main1()
 	{
 		
-	System.out.println("Priti2"); 
+	System.out.println("Priti2 ssss"); 
 		
 	}
 }
