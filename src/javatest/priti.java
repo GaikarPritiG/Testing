@@ -7,7 +7,7 @@ public class priti {
 
 	}	public void main09()
 	{
-		
+	
 	System.out.println("Pritigaikar2"); 
 		
 	}public void main()
